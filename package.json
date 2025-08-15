@@ -1,0 +1,23 @@
+{
+	"name": "signet-fr-fr",
+	"version": "1.0.0",
+	"description": "Signet Retraceur Block french translation.",
+	"scripts": {
+		"i18n-json": "wp i18n make-json . --no-purge",
+		"i18n-php": "wp i18n make-php ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/imath/signet-fr-fr.git"
+	},
+	"keywords": [
+		"retraceur-language",
+		"french"
+	],
+	"author": "imath",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/imath/signet-fr-fr/issues"
+	},
+	"homepage": "https://github.com/imath/signet-fr-fr#readme"
+}
