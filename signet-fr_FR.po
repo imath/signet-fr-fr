@@ -1,0 +1,102 @@
+# Copyright (C) 2025 imath
+# This file is distributed under the MIT License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Signet 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/imath/signet/issues\n"
+"POT-Creation-Date: 2025-08-07T01:38:53+00:00\n"
+"PO-Revision-Date: 2025-08-15 20:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: https://imathi.eu\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+"X-Domain: signet\n"
+
+#. Plugin Name of the plugin
+#: signet.php build/index.js:1
+msgid "Signet"
+msgstr "Signet"
+
+#. Plugin URI of the plugin
+#: signet.php
+msgid "https://github.com/imath/signet"
+msgstr "https://github.com/imath/signet"
+
+#. Description of the plugin
+#: signet.php
+msgid ""
+"Format bookmarks using a rich representation of the corresponding linked Web "
+"pages."
+msgstr ""
+"Mettez en forme vos signets grâce à une représentation riche de la page Web "
+"liée."
+
+#. Author of the plugin
+#: signet.php
+msgid "imath"
+msgstr "imath"
+
+#. Author URI of the plugin
+#: signet.php
+msgid "https://imathi.eu"
+msgstr "https://imathi.eu"
+
+#: build/index.js:1
+msgid ""
+"Paste the link URL & hit the Embed button to fetch preview informations."
+msgstr ""
+"Collez l'URL du lien et cliquez sur le bouton Imbriquer pour obtenir les "
+"informations de prévisualisation."
+
+#: build/index.js:1
+msgid "Insert link URL to preview…"
+msgstr "Insérer l'URL du lien pour prévisualiser.."
+
+#: build/index.js:1
+msgid "Embed"
+msgstr "Imbriquer"
+
+#: build/index.js:1
+msgid "Open link"
+msgstr "Ouvrir le lien"
+
+#: build/index.js:1
+msgid "Edit Link URL"
+msgstr "Modifier l'URL du lien"
+
+#: build/block.json
+msgctxt "block title"
+msgid "Signet"
+msgstr "Signet"
+
+#: build/block.json
+msgctxt "block description"
+msgid ""
+"Format bookmarks using a rich representation of the corresponding linked Web "
+"pages."
+msgstr ""
+"Mettez en forme vos signets grâce à une représentation riche de la page Web "
+"liée."
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "Retraceur"
+msgstr "Retraceur"
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "link"
+msgstr "lien"
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "bookmark"
+msgstr "signet"
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "embed"
+msgstr "imbrication"
