@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Signet 1.0.0\n"
 "Report-Msgid-Bugs-To: https://github.com/imath/signet/issues\n"
-"POT-Creation-Date: 2025-08-07T01:38:53+00:00\n"
-"PO-Revision-Date: 2025-08-15 20:22+0200\n"
+"POT-Creation-Date: 2025-08-24T00:22:51+00:00\n"
+"PO-Revision-Date: 2025-08-24 02:30+0200\n"
 "Last-Translator: \n"
 "Language-Team: https://imathi.eu\n"
 "Language: fr\n"
@@ -45,6 +45,18 @@ msgid "https://imathi.eu"
 msgstr "https://imathi.eu"
 
 #: build/index.js:1
+msgid "https://retraceur.github.io"
+msgstr "https://retraceur.github.io/fr/"
+
+#: build/index.js:1
+msgid "Retraceur documentation site"
+msgstr "Site documentataire de Retraceur"
+
+#: build/index.js:1
+msgid "Your personal online publication hub, powered by PHP."
+msgstr "Le carrefour personnel de vos publications en ligne, motorisé par PHP."
+
+#: build/index.js:1
 msgid ""
 "Paste the link URL & hit the Embed button to fetch preview informations."
 msgstr ""
@@ -53,7 +65,7 @@ msgstr ""
 
 #: build/index.js:1
 msgid "Insert link URL to preview…"
-msgstr "Insérer l'URL du lien pour prévisualiser.."
+msgstr "Insérer l'URL du lien pour prévisualiser…"
 
 #: build/index.js:1
 msgid "Embed"
