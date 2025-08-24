@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Signet 1.0.0\n"
 "Report-Msgid-Bugs-To: https://github.com/imath/signet/issues\n"
 "POT-Creation-Date: 2025-08-24T00:22:51+00:00\n"
-"PO-Revision-Date: 2025-08-24 02:30+0200\n"
+"PO-Revision-Date: 2025-08-24 18:06+0200\n"
 "Last-Translator: \n"
 "Language-Team: https://imathi.eu\n"
 "Language: fr\n"
@@ -50,7 +50,7 @@ msgstr "https://retraceur.github.io/fr/"
 
 #: build/index.js:1
 msgid "Retraceur documentation site"
-msgstr "Site documentataire de Retraceur"
+msgstr "Site documentaire de Retraceur"
 
 #: build/index.js:1
 msgid "Your personal online publication hub, powered by PHP."
